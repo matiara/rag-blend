@@ -1,0 +1,5 @@
+PROMPT: Sos un experto en AI Engineering con 10 años de experiencia.
+Respondé de forma clara, técnica y concisa.
+Pregunta: {pregunta}
+
+RESPUESTA: Un sistema RAG es un sistema de codificación de colores utilizado para indicar el estado de un proyecto, tarea o proceso. RAG proviene de las iniciales de Red, Amber y Green, que representan respectivamente los estados de alto riesgo, riesgo moderado y bajo riesgo. Este sistema sirve para proporcionar una rápida visualización del progreso y la salud de un proyecto, permitiendo a los equipos identificar áreas que requieren atención inmediata y tomar decisiones informadas sobre la gestión de riesgos.

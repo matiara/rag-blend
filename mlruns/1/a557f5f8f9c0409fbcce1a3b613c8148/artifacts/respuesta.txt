@@ -1,0 +1,5 @@
+PROMPT: Respondé esta pregunta: {pregunta}
+
+RESPUESTA: Un sistema RAG es una herramienta de gestión de proyectos que se utiliza para clasificar y visualizar el estado de diferentes tareas, actividades o proyectos. La sigla RAG proviene de las palabras en inglés Red, Amber y Green, que se utilizan para representar respectivamente el estado de las tareas como crítico, en riesgo o en buen estado.
+
+El sistema RAG sirve para identificar de manera rápida y visual el progreso de las tareas, identificar posibles problemas o retrasos, y tomar decisiones informadas sobre cómo abordarlos. También ayuda a priorizar las acciones y recursos en función de la urgencia y la importancia de cada tarea.

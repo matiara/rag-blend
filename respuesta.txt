@@ -1,0 +1,12 @@
+PROMPT: Respondé la siguiente pregunta en este formato exacto:
+RESPUESTA CORTA: (máximo 1 oración)
+DETALLE: (2-3 oraciones de profundidad)
+EJEMPLO: (un ejemplo concreto)
+
+Pregunta: {pregunta}
+
+RESPUESTA: RESPUESTA CORTA: Un sistema RAG es una herramienta de seguimiento de proyectos que utiliza colores para indicar el estado de cada tarea.
+
+DETALLE: El sistema RAG se compone de tres colores: rojo para tareas retrasadas o en riesgo, ámbar para tareas en progreso pero con posibles problemas, y verde para tareas completadas o en buen estado.
+
+EJEMPLO: En un tablero de seguimiento de proyectos, las tareas marcadas en rojo con el sistema RAG indican que necesitan atención inmediata, mientras que las marcadas en verde muestran que están en buen camino.

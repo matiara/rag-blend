@@ -1,0 +1,16 @@
+Blend es una empresa de servicios de IA fundada con la misión de co-crear impacto significativo para sus clientes a través de data science, IA, tecnología y personas.
+
+Tecnologías principales: Python, LangChain, Snowflake, BigQuery, Azure, AWS, Databricks.
+
+Clientes: bancos, empresas Fortune 500, gestoras de activos, agencias de comunicación médica.
+
+Casos de uso reales:
+- Plataforma agéntica de investigación de inversiones para gestora Fortune 500, reduciendo tiempo de investigación de horas a minutos.
+- Plataforma de audiencias sintéticas para red global de pagamentos usando GPT-4o.
+- Sistema de médicos sintéticos para entrenamiento de representantes comerciales.
+
+Beneficios para empleados: certificaciones en AWS, Databricks y Snowflake, acceso a Udemy Business, planes de desarrollo de carrera, mentoring, equipamiento provisto por la empresa.
+
+El rol de Senior AI Engineer en Blend incluye: diseño de sistemas RAG, frameworks agénticos, soluciones LLM para producción, MLOps/LLMOps, evaluación de modelos, infraestructura de inferencia escalable.
+
+Blend es AWS Premier Partner y fue reconocida como AWS Partner of the Year 2025 dos veces consecutivas. Tienen más de 450 profesionales certificados en AWS.
